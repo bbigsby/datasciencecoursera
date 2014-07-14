@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo fpr Coursera course project
+Repo for Coursera course project
